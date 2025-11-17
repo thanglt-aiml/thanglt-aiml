@@ -6,7 +6,7 @@
 - **Email:** [thanglt.aiml@gmail.com](mailto:thanglt.aiml@gmail.com)
 
 ## 🧑‍💻 Về tôi
-Tôi là một chuyên gia về Trí tuệ nhân tạo và Máy học với nhiều kinh nghiệm trong việc áp dụng AI/ML vào các doanh nghiệp. Tôi đam mê triển khai các giải pháp phần mềm vào môi trường production, giúp các doanh nghiệp tối ưu hóa quy trình và nâng cao hiệu quả công việc.
+Tôi là một kỹ sư Trí tuệ nhân tạo và Máy học, có một số năm kinh nghiệm triển khai các mô hình AI/ML vào thực tế tại doanh nghiệp. Mình đặc biệt thích việc đưa các giải pháp phần mềm từ giai đoạn phát triển lên môi trường production, từ đó hỗ trợ doanh nghiệp cải thiện quy trình và nâng cao hiệu quả hoạt động.
 
 ## 🚀 Kinh nghiệm và Kỹ năng
 - **Lĩnh vực chuyên môn:**
