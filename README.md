@@ -25,7 +25,8 @@ Nếu bạn yêu công nghệ, thích khám phá điều mới và muốn áp d�
 - TensorFlow · PyTorch · Scikit-Learn
 - OpenCV · YOLO · PaddleOCR
 - PySide6 và các công cụ phục vụ xây dựng ứng dụng nội bộ
-
+- Automation Workflow n8n
+  
 ## 🌱 Tư duy & Định hướng
 Mình tin rằng công nghệ chỉ thật sự có ý nghĩa khi giải quyết được vấn đề thực tế. Vì vậy mình thích những thứ “làm được việc”, dễ áp dụng và giúp người dùng cuối cảm thấy nhẹ nhàng hơn.
 
