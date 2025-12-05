@@ -15,12 +15,12 @@ Mình không phải chuyên gia, chỉ là người thích mày mò và chia s�
 Nếu bạn yêu công nghệ, thích khám phá điều mới và muốn áp dụng AI vào cuộc sống theo cách thực tế – dễ hiểu – gần gũi, thì rất vui được đồng hành cùng bạn.
 
 ## 🚀 Kinh nghiệm và Kỹ năng
-- **Những mảng mình thường làm và cảm thấy tự tin:**
+**Những mảng mình thường làm và cảm thấy tự tin:**
 - Đưa các dự án phần mềm & AI từ giai đoạn phát triển lên production
 - Xây dựng và triển khai các mô hình AI/ML phục vụ doanh nghiệp
 - Phân tích dữ liệu và tối ưu hoá quy trình bằng công nghệ
 
--**Ngôn ngữ & Công nghệ mình dùng hằng ngày:**
+**Ngôn ngữ & Công nghệ mình dùng hằng ngày:**
 - Python · C# · SQL Server
 - TensorFlow · PyTorch · Scikit-Learn
 - OpenCV · YOLO · PaddleOCR
